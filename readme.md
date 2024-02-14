@@ -11,7 +11,7 @@
   </a>
   
 </p>
-<img src="./.github/1.png" alt="AI-SQL-Schema-Assistant" title="AI-SQL-Schema-Assistant">
+<img src="./.images/capa.png" alt="dashboard apresentando diversos números estatísticos, um gráfico comparando o que estava previsto e o que realmente aconteceu e um gráfico de histograma" title="Machine-Learning-Azure-ML">
 > Project developed as a challenge - AI-900 Preparation!
 
 ## About the project
