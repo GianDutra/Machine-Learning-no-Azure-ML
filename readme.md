@@ -102,6 +102,9 @@ After 10 minutes, the models were trained. Thus, I went to the "jobs" option and
 ]
 ```
 
+## Final Considerations
+In this project, I learned a lot about Azure Machine Learning, and although I already had some experience in Machine Learning through courses and projects, it was really cool to see how easy, fast, and advanced this matter is within Azure. I will definitely use these services again if I need to perform a regression or any other task, and I'm excited for my next learning opportunity.
+
 ## 👨‍💼 Autor
 
 <table>
