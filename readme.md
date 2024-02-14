@@ -16,13 +16,13 @@
 
 ## About the project
 
-To create the website was used:
+My first project on Azure Machine Learning, in which, using regression, I trained a model with more than 6000 different games to make assumptions or predict global video game sales, as well as to generate a dashboard with various insights.
   
-#### **Step-by-step**
-## Step 1
+## **Step-by-step**
+### Step 1
 First, 
 
-## Step 2
+### Step 2
 
 ## 👨‍💼 Autor
 
