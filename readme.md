@@ -1,4 +1,4 @@
-## Machine Learning on Azure ML [:us: Video Tutorial](https://www.youtube.com/watch?v=5T5D4kfVNG8) | [:brazil: Video Tutorial](https://www.youtube.com/watch?v=vkOblTUN2MA)
+## Machine Learning on Azure ML [:us: Video Tutorial](https://www.youtube.com/watch?v=p7zSlx5j-e4&t=45s) | [:brazil: Video Tutorial](https://www.youtube.com/watch?v=scEeK9juXOQ) | [🇪🇸 Video Tutorial](https://www.youtube.com/watch?v=PbmIYPwWtP8&t=3s)
 
 
 
