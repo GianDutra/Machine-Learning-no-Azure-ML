@@ -57,7 +57,7 @@ I initiated the studio as you can see in the photo, I chose the "Automated ML" o
 
 ### **Step three**
 
-aaaa
+After 10 minutes, the models were trained. Thus, I went to the "jobs" option and chose the best model to open, in this case, the model called olden_whale, then immediately clicking on "metrics" to observe the generated values. Next, I went to the "models" option and as you can follow in the photo, I selected the olden_whale and generated a model from it. Finally, I created an endpoint based on the generated model and managed to have some fun by modifying the JSON and making some predictions.
 
 <img src="./images/24.png" alt="">
 <img src="./images/25.png" alt="">
@@ -73,8 +73,33 @@ aaaa
 <img src="./images/35.png" alt="">
 <img src="./images/36.png" alt="">
 <img src="./images/37.png" alt="">
-<img src="./images/38.png" alt="">
-### Step 2
+
+```bash
+# json gerado:
+{
+  "input_data": {
+    "data": [
+      {
+      "rank": 1815,
+      "name": "Yakuza 3",
+      "platform": "PS3",
+      "year": 2009,
+      "genre": "Action",
+      "publisher": "Sega",
+      "na_sales": 0.21,
+      "eu_sales": 0.21,
+      "jp_sales": 0.62,
+      "other_sales": 0.08
+      }
+    ]
+  }
+}
+
+# resultado:
+[
+  0: float 41.40284747291517
+]
+```
 
 ## 👨‍💼 Autor
 
